@@ -1,0 +1,18 @@
+c:\users\jorda_000\documents\visual studio 2013\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+c:\users\jorda_000\documents\visual studio 2013\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+c:\users\jorda_000\documents\visual studio 2013\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+c:\users\jorda_000\documents\visual studio 2013\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+c:\users\jorda_000\documents\visual studio 2013\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+c:\users\jorda_000\documents\visual studio 2013\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+c:\users\jorda_000\documents\visual studio 2013\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+c:\users\jorda_000\documents\visual studio 2013\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\Barry\Documents\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\Barry\Documents\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\Barry\Documents\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\Barry\Documents\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\Barry\Documents\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+C:\Users\Barry\Documents\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\Barry\Documents\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\Barry\Documents\Blackjack\Blackjack\obj\Debug\Blackjack.Form1.resources
+C:\Users\jorda_000\Documents\Visual Studio 2013\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.Form1.resources
